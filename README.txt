@@ -1,9 +1,9 @@
-TRADU«√O PARA JOOM REPORTS
+TRADU√á√ÉO PARA JOOM REPORTS
 
 CRIADA POR - MARCIO LORRAN - fealaure@hotmail.com
 
-Para instalar basta arrastar os dois diretÛrios para a raÌz do seu site.
+Para instalar basta arrastar os dois diret√≥rios para a ra√≠z do seu site.
 
-Se n„o estiver satisfeito com a traduÁ„o edite, revise e altere!
+Se n√£o estiver satisfeito com a tradu√ß√£o edite, revise e altere!
 
-COMPATÕVEL COM: Joom-Reports3
+COMPAT√çVEL COM: Joom-Reports3
